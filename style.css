@@ -1,0 +1,70 @@
+header {
+	background: whitesmoke;
+	padding: 20px 0;
+}
+
+header > h1 {
+    font-size: 250%;
+    padding: 5px, 10px;
+    text-indent: 25px;
+    color: black;
+}
+
+section {
+    display: inline-block;
+	width: 100%;
+}
+
+section > div {
+
+	width: 100%;
+    height: 800px;
+    background: linear-gradient(black,darkorange 30%,snow,black,darkorange,black,darkorange,black);
+    margin: 0px;
+    padding: 0px;
+}
+
+.gradient1 {
+    background: linear-gradient(black,darkorange 30%,snow,black,darkorange,black,darkorange,black);
+}
+
+.gradient2 {
+    background: linear-gradient(rgb(36,15,0) 66% ,whitesmoke, yellow);
+}
+
+.gradient3 {
+    background: radial-gradient(rgb(93,95,34) 35%, green 20%);
+}
+
+.gradient4 {
+    background: linear-gradient(to bottom,grey,white);
+}
+
+.gradient5 {
+    background: radial-gradient(royalblue,seagreen,royalblue,limegreen,royalblue,limegreen);
+}
+
+.gradient6 {
+    background: linear-gradient(to right, white,black,white,black,white);
+}
+
+.gradient7 {
+    background: linear-gradient(red,orange,yellow,green,blue,indigo,violet);
+} 
+
+.gradient8 {
+    background: linear-gradient(to left, Chartreuse, salmon);
+} 
+
+
+img {
+	width: 100%;
+    height: 800px;
+}
+
+
+footer {
+    background: whitesmoke;
+	text-align: center;
+	padding: 40px 0;
+}
