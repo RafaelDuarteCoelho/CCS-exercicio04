@@ -56,12 +56,45 @@ section > div {
     background: linear-gradient(to left, Chartreuse, salmon);
 } 
 
-
-img {
-	width: 100%;
-    height: 800px;
+.imagem1 {
+    background-image: url("tigre.jpg");
+    background-size: cover;
 }
 
+.imagem2 {
+    background-image: url("eagle.gif");
+    background-size: cover;
+}
+
+.imagem3 {
+    background-image: url("palmtree.jpg");
+    background-size: cover;
+}
+
+.imagem4 {
+    background-image: url("dolphin.gif");
+    background-size: cover;
+}
+
+.imagem5 {
+    background-image: url("peacock.png");
+    background-size: cover;
+}
+
+.imagem6 {
+    background-image: url("badger.jpg");
+    background-size: cover;
+}
+
+.imagem7 {
+    background-image: url("arcoiris.jpg");
+    background-size: cover;
+}
+
+.imagem8 {
+    background-image: url("frog.gif");
+    background-size: cover;
+}
 
 footer {
     background: whitesmoke;
